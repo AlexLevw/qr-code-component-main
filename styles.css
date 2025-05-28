@@ -55,7 +55,9 @@ body {
  margin-top: 10px;
 }
 .attribution {
-	font-size: 11px;
+	position: absolute;
+	bottom: 25PX;
+	font-size: 15px;
 	text-align: center;
 }
 .attribution a { color: hsl(228, 45%, 44%); }
